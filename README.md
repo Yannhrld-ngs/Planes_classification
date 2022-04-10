@@ -29,6 +29,7 @@ a family can be **Boeing 737***
 
 
 For those who are not familiar with planes terminologies, the links below explain and illustrate what a model variant is.
+
 https://simpleflying.com/boeing-737-variants/
 https://www.flycovered.com/aircraft/faqs?srch-term=What+do+you+mean+by+model+and+variant
 https://en.wikipedia.org/wiki/Category:Lists_of_aircraft_variants
