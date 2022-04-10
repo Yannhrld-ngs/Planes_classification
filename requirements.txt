@@ -3,6 +3,7 @@ keras
 matplotlib
 numpy
 pandas
+pip==22.0.4
 pillow
 streamlit
 seaborn
