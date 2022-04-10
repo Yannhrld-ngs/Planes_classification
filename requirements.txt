@@ -8,5 +8,6 @@ pillow
 streamlit
 seaborn
 tensorflow
-pathlib
+path
+pathlib2
 pyyaml 
