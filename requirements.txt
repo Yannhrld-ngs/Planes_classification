@@ -3,7 +3,7 @@ seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
 setuptools
-sip==4.19.13
+sip
 six==1.16.0
 smmap==5.0.0
 sniffio==1.2.0
