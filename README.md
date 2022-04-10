@@ -82,7 +82,7 @@ and a new target (whatsoever the target). To build a new model process like this
 - Add the name of your train and test dataset and all other informations required for the algorithm to work (epoch , heigth , width and deepth of the picture ) by proceeding as before.
 
 *Step 2:*
-- Go to the file *app.yaml**
+- Go to the file **app.yaml**
 - Add the path where you saved the model by proceeding as before. 
     - Eg : **MODEL_DIR : model/results**
 - Add information about the heigth , width and deepth of the picture.
