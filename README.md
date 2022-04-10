@@ -37,7 +37,7 @@ https://www.flycovered.com/aircraft/faqs?srch-term=What+do+you+mean+by+model+and
 https://en.wikipedia.org/wiki/Category:Lists_of_aircraft_variants
 
 
-We can visualize our classification using the following url **ADD THE URL**
+We can visualize our classification using the following url **https://share.streamlit.io/yannhrld-ngs/planes_classification/main**
 To classify a picture, go to this url, select a target (manufacturer,variant or family) and then select a model. Afterwards, click on **identify**. To get informations about the probabilities associated to others class labels, click on **other probabilities**
 
 
