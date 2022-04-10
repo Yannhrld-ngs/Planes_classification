@@ -197,7 +197,6 @@ pyflakes==2.3.1
 Pygments==2.10.0
 PyJWT==2.1.0
 pylint==2.9.6
-pyls-spyder==0.4.0
 pyodbc==4.0.0-unsupported
 pyOpenSSL==21.0.0
 pyparsing==3.0.4
