@@ -26,7 +26,7 @@ statsmodels==0.13.2
 streamlit==1.8.1
 sympy==1.9
 tables==3.6.1
-TBB==0.2
+TBB
 tblib==1.7.0
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
